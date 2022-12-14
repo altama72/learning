@@ -1,2 +1,2 @@
-# learning
+# Learning
 Repository untuk belajar Aldi
